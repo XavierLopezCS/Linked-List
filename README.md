@@ -1,6 +1,6 @@
 # Generic Singly Linked-List (C++)
 
-This project implements a generic singly linked list using C++ templates. It supports insertion, deletion, traversal, and search operations for any data type. The project demonstrates dynamic memory management, pointer manipulation, and type-generic behavior using templates.
+This program implements a generic singly linked list using C++ templates. It supports insertion, deletion, traversal, and search operations for any data type. It shows dynamic memory management, pointer manipulation, and type-generic behavior using templates.
 
 ## Features
 - Fully templated linked list class
